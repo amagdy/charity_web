@@ -11,6 +11,7 @@ public class CharitywebApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
 	}
 
 }
